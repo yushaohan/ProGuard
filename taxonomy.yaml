@@ -1,0 +1,324 @@
+- category: Copyright
+  description: Content that infringes on intellectual property rights or misuses protected works.
+  synonymous-phrase:
+    - Intellectual Property Violation
+    - Copyright-Infringing Material
+    - Unauthorized Use of Protected Works
+    - Content Violating IP Rights
+    - Copyright Breach Content
+  subcategories:
+    - name: Reproduction, Generation, and Distribution
+      description: Involves unauthorized creation or sharing of protected materials.
+      synonymous-phrase:
+        - Unauthorized Copying or Sharing
+        - Pirated Material Distribution
+        - Unauthorized Content Dissemination
+        - Sharing Copyrighted Material Illegally
+        - Content Generation Without Permission
+    - name: Imitation and Rewriting
+      description: Alters existing protected works in a way that infringes rights.
+      synonymous-phrase:
+        - Rewriting or Reworking Protected Material
+        - Copyrighted Work Derivatives
+        - Plagiarized or Modified Content
+        - Imitated Intellectual Property
+        - Derivative Works Without Permission
+    - name: Removal or Misuse of Copyright Information
+      description: Strips or falsifies ownership details for protected works.
+      synonymous-phrase:
+        - Copyright Metadata Tampering
+        - Removing Ownership Information
+        - Stripping Copyright Notices
+        - Misuse of Copyright Marks
+        - Unauthorized Modification of Rights Information
+- category: Misinformation & Private Information
+  description: Content that disseminates false or misleading information, or reveals private information that may compromise personal security or confidentiality.
+  synonymous-phrase:
+    - False or Confidentiality-Violating Content
+    - Misleading or Sensitive Information
+    - Disinformation and Privacy Breach
+    - Inaccurate or Leaked Data
+    - Fabricated Claims and Data Exposure 
+  subcategories:
+    - name: False and Fabricated Information
+      description: Disseminates inaccurate statements that mislead or deceive.
+      synonymous-phrase:
+        - Disinformation Content
+        - Fake News and Hoaxes
+        - Misleading or Deceptive Claims
+        - Fabricated Narratives
+        - False Statements or Reports
+    - name: Private Data Leakage
+      description: Reveals details that compromise personal security or confidentiality.
+      synonymous-phrase:
+          - Sensitive Information Disclosure
+          - Confidential Data Leakage
+          - Compromised Security Information
+          - Identity and Credential Leakage
+          - Personal Data Exposure
+- category: Malicious Deception & Suggestion
+  description: Content designed to deceive, manipulate, or suggest harmful or exploitative behavior.
+  synonymous-phrase:
+    - Deceptive or Manipulative Content
+    - Fraudulent and Exploitative Material
+    - Misleading or Coercive Content
+    - Harm-Inducing Guidance or Persuasion
+    - Manipulation and Suggestive Material
+  subcategories:
+    - name: Fraud and Scams
+      description: Exploits trust or ignorance for unlawful gain.
+      synonymous-phrase:
+        - Deceptive Schemes and Tricks
+        - Scam and Fraudulent Activities
+        - Fraudulent Operations
+        - Misleading Offers and Schemes
+        - Illicit Gain Through Deception
+    - name: Psychological Manipulation and Inducement
+      description: Uses influence or coercion to shape decisions against one’s interest.
+      synonymous-phrase:
+        - Mental or Emotional Manipulation
+        - Coercive Persuasion Content
+        - Psychological Exploitation Techniques
+        - Mind Control or Undue Influence
+        - Persuasive Deceptive Content
+    - name: Sexual Suggestive Content
+      description: Implies sexual themes in a manner that may provoke or persuade.
+      synonymous-phrase:
+        - Sexualized Persuasive Content
+        - Seductive or Luring Content
+        - Erotic Suggestive Material
+        - Alluring Sexual Imagery
+        - Content with Sexual Provocation
+- category: Cybersecurity Technology
+  description: Content related to exploiting or distributing tools that compromise digital systems or data security.
+  synonymous-phrase:
+    - Digital Security Threats
+    - Cyberattack-Related Content
+    - System Exploitation Material
+    - Content on Hacking and Security Breaches
+    - Unauthorized Digital Access 
+  subcategories:
+    - name: System Intrusion and Vulnerabilities
+      description: Exploits flaws in systems to gain unauthorized benefits.
+      synonymous-phrase:
+        - Unauthorized System Access
+        - Network and Software Vulnerability Exploitation
+        - Digital Intrusion Material
+        - Unauthorized Exploitation of Systems
+        - System Hack and Breach Content
+    - name: Malicious Software and Hacking Tools
+      description: Utilizes digital tools intended to compromise or disrupt systems.
+      synonymous-phrase:
+        - Malware and Virus Content
+        - Hacking Tools and Exploit Kits
+        - Digital Attack Software
+        - Content on Malicious Code
+        - Content on Cyberattack Utilities
+- category: Living Environment Hazards
+  description: Content involving risks or damages to the living environment, including natural ecosystems and human-built surroundings.
+  synonymous-phrase:
+    - Environmental Risk Content
+    - Hazards to Living Surroundings
+    - Threats to Ecology and Habitat
+    - Risks to Human and Natural Environments
+    - Ecological and Infrastructural Hazards
+  subcategories:
+    - name: Natural Environmental Risks
+      description: Relates to threats arising from environmental or ecological conditions.
+      synonymous-phrase:
+        - Natural Disaster Threats
+        - Ecological Risk Content
+        - Hazards from Climate or Weather Events
+        - Risks to Ecosystems and Wildlife
+        - Nature-Related Dangers
+    - name: Urban Environmental Risks
+      description: Involves hazards linked to human-built environments or infrastructure.
+      synonymous-phrase:
+        - City Infrastructure Hazards
+        - Urban Safety and Environmental Threats
+        - Risks from Industrial Activities
+        - Infrastructure Failure Risks
+        - Hazards in Human-Built Environments
+- category: Financial Crime
+  description: Content involving illegal or deceptive financial practices for monetary advantage.
+  synonymous-phrase:
+    - Illicit Financial Activity
+    - Fraudulent Monetary Practices
+    - Content on Financial Misconduct
+    - Economic Crime Material
+    - Illegal Money-Related Operations
+  subcategories:
+    - name: Financial Fraud
+      description: Involves dishonest schemes to secure monetary advantage.
+      synonymous-phrase:
+        - Fraudulent Transactions
+        - Deceptive Financial Schemes
+        - Dishonest Economic Activity
+        - Content on Monetary Deception
+        - Embezzlement or Fraudulent Practices
+    - name: Illegal Trade
+      description: Engages in commerce prohibited by law or regulation.
+      synonymous-phrase:
+        - Black Market Transactions
+        - Prohibited Trade Practices
+        - Unauthorized Selling or Buying
+        - Illegal Goods Trading
+        - Contraband or Smuggling Activities
+- category: Hate and Terror
+  description: Content that promotes hate, discrimination, extremist ideology, or terrorism-related material.
+  synonymous-phrase:
+    - Ideological Violence and Hatred
+    - Harassment and Terror Advocacy
+    - Hate Speech and Extremist Rhetoric
+    - Content Inciting Fear and Division
+    - Extremist and Discriminatory Material
+  subcategories:
+    - name: Hate Speech and Discrimination
+      description: Targets individuals or groups based on identity-related factors.
+      synonymous-phrase:
+        - Discriminatory or Abusive Language
+        - Identity-Based Hate Content
+        - Racist, Sexist, or Biased Expressions
+        - Offensive Speech Against Groups or Individuals
+        - Harassment Based on Identity
+    - name: Extremism and Terrorism
+      description: Advocates or legitimizes extremist ideology or organized violence.
+      synonymous-phrase:
+        - Terrorist Propaganda Content
+        - Extremist Ideology Promotion
+        - Militant or Insurgent Messaging
+        - Violent Extremism Narratives
+        - Advocacy of Organized Violence
+    - name: Horrific Content
+      description: Contains material intended to instill fear, shock, or extreme discomfort.
+      synonymous-phrase:
+        - Gruesome or Shocking Material
+        - Disturbing Fear-Inducing Content
+        - Material Aimed at Causing Extreme Distress
+        - Content Meant to Shock or Terrify
+        - Shocking or Disturbing Content
+- category: Dangerous Goods
+  description: Content featuring items, substances, or materials that can cause severe harm to humans or the environment.
+  synonymous-phrase:
+    - Hazardous Items and Substances
+    - Harmful Goods and Objects
+    - Dangerous or Prohibited Materials
+    - Threat-Capable Items
+    - Materials with Lethal Potential
+  subcategories:
+    - name: Weapons
+      description: Items or tools designed to inflict harm or damage.
+      synonymous-phrase:
+        - Firearms and Explosives
+        - Deadly Tools and Armaments
+        - Military-Grade Equipment
+        - Weaponry and Arms
+        - Dangerous Weapons and Equipment
+    - name: Biological, Chemical, and Radioactive Materials
+      description: Substances capable of causing serious health or environmental harm.
+      synonymous-phrase:
+        - Hazardous Biological Agents
+        - Biochemical Threat Materials
+        - Biohazards and Radiological Risks
+        - Nuclear and Radioactive Substances
+        - Toxic Chemicals and Compounds
+    - name: Illegal Drugs and Narcotics
+      description: Substances prohibited due to abuse potential or harmful effects.
+      synonymous-phrase:
+        - Prohibited Drugs
+        - Addictive and Harmful Narcotics
+        - Banned Psychoactive Materials
+        - Illicit Substances and Stimulants
+        - Recreational Drug Contraband
+- category: Real-World Harm
+  description: Content describing or encouraging behaviors that may cause physical injury or damage to living beings or property in real life.
+  synonymous-phrase:
+    - Physical Harm-Related Content
+    - Real-Life Injury and Damage
+    - Harmful Behaviors in Reality
+    - Real-World Violence and Destruction
+    - Acts Causing Bodily or Property Harm
+  subcategories:
+    - name: Self-Harm and Suicide
+      description: Encourages or describes intentional harm toward oneself, including suicidal ideation or self-injurious behavior.
+      synonymous-phrase:
+        - Suicide-Related Content
+        - Self-Injury Depictions
+        - Suicidal Thoughts and Behavior
+        - Deliberate Self-Destructive Acts
+        - Suicide Ideation and Encouragement
+    - name: Animal Abuse
+      description: Promotes or normalizes cruelty toward animals.
+      synonymous-phrase:
+        - Cruelty to Animals
+        - Violence Toward Animals
+        - Animal Torture Depictions
+        - Inhumane Treatment of Animals
+        - Animal Mistreatment Content
+    - name: Violent and Property Crime
+      description: Encourages, instructs, or normalizes acts of violence, theft, burglary, vandalism, or other crimes against persons or property in the physical world.
+      synonymous-phrase:
+        - Physical Violence and Criminal Acts
+        - Theft and Burglary Content
+        - Crime and Vandalism Depictions
+        - Robbery, Assault, and Property Damage
+        - Violence Against Persons or Property
+- category: Blood-Related Disturbing Content
+  description: Content involving blood, injury, or death that may cause discomfort or distress.
+  synonymous-phrase:
+    - Graphic Injury Content
+    - Bloodshed and Disturbing Imagery
+    - Explicit Scenes of Injury or Death
+    - Graphic Violence Involving Blood
+    - Injury Blood and Death Imagery
+  subcategories:
+    - name: Medical Scenes
+      description: May cause discomfort due to depictions of injury, surgery, or medical intervention.
+      synonymous-phrase:
+        - Graphic Medical Imagery
+        - Surgical Scenes
+        - Depictions of Medical Procedures
+        - Injury and Treatment Visuals
+        - Medical Intervention Scenes
+    - name: Accident Scenes
+      description: Involves harm or damage resulting from unplanned incidents.
+      synonymous-phrase:
+        - Unintentional Injury Scenes
+        - Mishap-Related Harm Imagery
+        - Depictions of Accidental Damage
+        - Unplanned Incident Visuals
+        - Accident-Related Harm
+    - name: Killing Scenes
+      description: Involves the deliberate ending of life and associated violent acts.
+      synonymous-phrase:
+        - Deliberate Violence Depictions
+        - Scenes of Intentional Killing
+        - Homicide Imagery
+        - Depictions of Lethal Acts
+        - Murder and Execution Scenes
+- category: Sexual Exposure
+  description: Content involving inappropriate or explicit sexual display that may violate privacy or legal boundaries.
+  synonymous-phrase:
+    - Explicit Sexual Display
+    - Sexual Content Involving Nudity
+    - Inappropriate Sexual Imagery
+    - Pornographic or Lewd Material
+    - Explicit Erotic Imagery
+  subcategories:
+    - name: Inappropriate Exposure of Minors
+      description: Involves sexualized context with individuals below legal age thresholds.
+      synonymous-phrase:
+        - Child Sexual Exploitation Imagery
+        - Underage Sexual Exposure
+        - Minor-Related Inappropriate Content
+        - Sexualization of Children
+        - Illicit Depictions of Minors
+    - name: Exposure of Sexual Organs
+      description: Contains explicit depictions involving genitalia or intimate body parts.
+      synonymous-phrase:
+        - Explicit Genital Imagery
+        - Nudity Involving Sexual Organs
+        - Graphic Exposure of Intimate Parts
+        - Sexual Organ Display
+        - Depictions of Genital Nudity
+

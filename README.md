@@ -16,7 +16,7 @@
 <sup>†</sup>Corresponding Author
 
 
-[📄 Paper](#) (Coming Soon) | [🌐 Project Page](#) (Coming Soon) | [🤗 Model Weights](#) (Coming Soon) | [🤗 Datasets](#) (Coming Soon)
+[📄 Paper](#) (Coming Soon) | [🌐 Project Page](https://yushaohan.github.io/ProGuard) | [🤗 Models & Dataset](https://huggingface.co/collections/yushaohan/proguard)
 
 </div>
 
@@ -25,25 +25,30 @@
 The rapid evolution of generative models has led to a continuous emergence of multimodal safety risks, exposing the limitations of existing defense methods. To address these challenges, we propose ProGuard, a vision-language proactive guard that identifies and describes out-of-distribution (OOD) safety risks without the need for model adjustments required by traditional reactive approaches. We first construct a modality-balanced dataset of 87K samples, each annotated with both binary safety labels and risk categories under a hierarchical multimodal safety taxonomy, effectively mitigating modality bias and ensuring consistent moderation across text, image, and text-image inputs. Based on this dataset, we train our vision-language base model purely through reinforcement learning (RL) to achieve efficient and concise reasoning. To approximate proactive safety scenarios in a controlled setting, we further introduce an OOD safety category inference task and augment the RL objective with a synonym-bank-based similarity reward that encourages the model to generate concise descriptions for unseen unsafe categories. Experimental results show that ProGuard achieves performance comparable to closed-source large models on binary safety classification, substantially outperforms existing open-source guard models on unsafe content categorization. Most notably, ProGuard delivers a strong proactive moderation ability, improving OOD risk detection by 52.6\% and OOD risk description by 64.8%.
 
 <div align="center">
-    <img src=./images/proguard.png width="100%">
+    <img src=./static/images/proguard.png width="100%">
 </div>
 <p align="center">
 
 ## 📣 News
 
-[TODO]
-
-- **[2025.12.date]** release our paper?
+- **[2025.12.date]** release our model weights & dataset
 
 ## 🔧 Usage
 
-[TODO]
+Code Coming Soon
 
 ## 🙏 Acknowledgments
 
-Our method are partly based on [verl](https://github.com/volcengine/verl) and [Qwen-VL series](https://github.com/QwenLM/Qwen3-VL). Thanks for their awesome works。
-
-
+Our method are partly based on [verl](https://github.com/volcengine/verl), [Qwen-VL series](https://github.com/QwenLM/Qwen3-VL) and [BGE-M3](https://github.com/FlagOpen/FlagEmbedding). Thanks for their awesome works.
 
 ## 📖 Citation
 
+```
+@article{YourPaperKey2024,
+  title={Your Paper Title Here},
+  author={First Author and Second Author and Third Author},
+  journal={Conference/Journal Name},
+  year={2024},
+  url={https://your-domain.com/your-project-page}
+}
+```

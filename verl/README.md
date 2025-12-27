@@ -1,0 +1,1 @@
+This directory provides the core code for training ProGuard using the [VERL (Volcano Engine Reinforcement Learning)](https://github.com/volcengine/verl) framework with data from [ProGuard-Data](https://huggingface.co/datasets/yushaohan/ProGuard-Data).
