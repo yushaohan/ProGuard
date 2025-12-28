@@ -30,7 +30,7 @@ The rapid evolution of generative models has led to a continuous emergence of mu
 
 ## 📣 News
 
-- **[2025.12.29]** release our code repo & project page 🎉
+- **[2025.12.29]** release our code repo & project page 🎉.
 
 ## 🔧 Usage
 
