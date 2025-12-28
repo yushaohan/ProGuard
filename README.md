@@ -2,8 +2,8 @@
 
 # ProGuard: Towards Proactive Multimodal Safeguard
 
-[Shaohan Yu](https://yushaohan.github.io/)<sup>1,2,3</sup>, 
-[Lijun Li](https://adwardlee.github.io/)<sup>1,†</sup>, 
+[Shaohan Yu](https://yushaohan.github.io/)<sup>1,2,3,\*</sup>, 
+[Lijun Li](https://adwardlee.github.io/)<sup>1,\*†</sup>, 
 [Chenyang Si](https://chenyangsi.top/)<sup>2</sup>
 [Lu Sheng](https://lucassheng.github.io/)<sup>3</sup>
 [Jing Shao](https://amandajshao.github.io/)<sup>1,†</sup>
@@ -12,8 +12,7 @@
 <sup>2</sup>[PRLab, Nanjing University](https://prlab-nju.com/), 
 <sup>3</sup>[Beihang University](https://buaa.edu.cn/)
 
-<!-- <sup>\*</sup>Equal Contribution,  -->
-<sup>†</sup>Corresponding Author
+<sup>\*</sup>Equal Contribution, <sup>†</sup>Corresponding Author
 
 
 [📄 Paper](#) (Coming Soon) | [🌐 Project Page](https://yushaohan.github.io/ProGuard) | [🤗 Models & Dataset](https://huggingface.co/collections/yushaohan/proguard)
@@ -31,11 +30,12 @@ The rapid evolution of generative models has led to a continuous emergence of mu
 
 ## 📣 News
 
-- **[2025.12.date]** release our model weights & dataset
+- **[2025.12.29]** release our code repo & project page 🎉
 
 ## 🔧 Usage
 
-Code Coming Soon
+- **Training**: First, download the [training dataset](https://huggingface.co/datasets/yushaohan/ProGuard-Data) from Hugging Face, preprocess it into the format compatible with verl, modify the paths in the scripts under the `train` directory to your local paths, and run `proguard-train.sh` to start training.
+- **Deployment**: Refer to `deploy/README.md` for model usage instructions.
 
 ## 🙏 Acknowledgments
 
