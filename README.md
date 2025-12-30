@@ -44,11 +44,11 @@ Our method are partly based on [verl](https://github.com/volcengine/verl), [Qwen
 ## 📖 Citation
 
 ```
-@article{YourPaperKey2024,
-  title={Your Paper Title Here},
-  author={First Author and Second Author and Third Author},
-  journal={Conference/Journal Name},
-  year={2024},
-  url={https://your-domain.com/your-project-page}
+@article{yu2025proguard,
+  title={ProGuard: Towards Proactive Multimodal Safeguard},
+  author={Yu, Shaohan and Li, Lijun and Si, Chenyang and Sheng, Lu and Shao, Jing},
+  journal={arXiv preprint arXiv:2512.23573},
+  year={2025},
+  url={https://yushaohan.github.io/ProGuard/}
 }
 ```
