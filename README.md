@@ -15,7 +15,7 @@
 <sup>\*</sup>Equal Contribution, <sup>†</sup>Corresponding Author
 
 
-[📄 Paper](#) (Coming Soon) | [🌐 Project Page](https://yushaohan.github.io/ProGuard) | [🤗 Models & Dataset](https://huggingface.co/collections/yushaohan/proguard)
+[📄 Paper](https://arxiv.org/abs/2512.23573) | [🌐 Project Page](https://yushaohan.github.io/ProGuard) | [🤗 Models & Dataset](https://huggingface.co/collections/yushaohan/proguard)
 
 </div>
 
