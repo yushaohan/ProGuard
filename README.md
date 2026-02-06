@@ -31,6 +31,7 @@ The rapid evolution of generative models has led to a continuous emergence of mu
 ## 📣 News
 
 - **[2025.12.29]** release our code repo & project page 🎉.
+- **[2026.02.06]** Thanks to [DeepSafe](https://github.com/AI45Lab/DeepSafe) for using our model. Please check out their awesome work 🙌.
 
 ## 🔧 Usage
 
