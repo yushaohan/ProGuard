@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 # ProGuard: Towards Proactive Multimodal Safeguard
@@ -35,7 +37,7 @@ The rapid evolution of generative models has led to a continuous emergence of mu
 
 ## 🔧 Usage
 
-- **Training**: First, download the [training dataset](https://huggingface.co/datasets/yushaohan/ProGuard-Data) from Hugging Face, preprocess it into the format compatible with verl, modify the paths in the scripts under the `train` directory to your local paths, and run `proguard-train.sh` to start training.
+- **Training**: Install dependencies via `pip install -e train/`, download the [training dataset](https://huggingface.co/datasets/yushaohan/ProGuard-Data) from Hugging Face, preprocess it into the format compatible with verl, modify the paths in the scripts under the `train` directory to your local paths, and run `proguard-train.sh` to start training.
 - **Deployment**: Refer to `deploy/README.md` for model usage instructions.
 
 ## 🙏 Acknowledgments
